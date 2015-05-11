@@ -1,0 +1,1 @@
+This is a project for Chapter 2 of my dissertation that trains a neural representation of speech to meet some objective.  The main code is in the file 'GradDesc_AURORA.m'.  
